@@ -1,0 +1,26 @@
+Requirement already satisfied: pynput in c:\users\rajesh\anaconda3\lib\site-packages (1.8.1) 
+Requirement already satisfied: six in c:\users\rajesh\anaconda3\lib\site-packages (from pynput) 
+(1.17.0) 
+Advanced Keylogger Started 
+Press ESC to stop the keylogger 
+ 
+        Keylogger Statistics 
+        =================== 
+        Total Keystrokes: 13 
+        Special Keys: 0 
+        Spaces: 24 
+        Runtime: 0:00:26.334541 
+        Log File: keylog.txt 
+ 
+2026-05-06 17:27:12,204: Key.shift_r 
+2026-05-06 17:27:12,532: Key.enter 
+2026-05-06 17:27:20,532: Key.shift_r 
+2026-05-06 17:27:20,876: Key.enter 
+2026-05-06 17:27:52,197: 'g' 
+2026-05-06 17:27:52,260: 'f' 
+2026-05-06 17:27:52,436: 'g' 
+2026-05-06 17:27:52,532: 'f' 
+2026-05-06 17:27:52,636: 'g' 
+2026-05-06 17:27:52,724: 'f' 
+2026-05-06 17:27:53,356: Key.enter 
+2026-05-06 17:28:05,476: Key.esc
