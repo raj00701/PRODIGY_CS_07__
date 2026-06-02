@@ -1,4 +1,4 @@
-# PRODIGY_CS_07_Keylogger
+# Advanced Keylogger
 
 A keylogger (short for keystroke logger) is a surveillance tool, either software or hardware, that secretly 
 records every keystroke made on a computer or mobile device. It captures sensitive data like 
